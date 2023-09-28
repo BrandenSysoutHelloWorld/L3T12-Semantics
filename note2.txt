@@ -1,0 +1,8 @@
+Differences between sm and md models in example.py file:
+
+I noticed that with the sm model I got a warning: 'UserWarning: [W007] The model you're using has no word vectors loaded'
+With the md model there is no warning about vectors, which means the md model and sm model could have different purposes. 
+Such as: the md model could be used for a out of the box solution and the sm model can be trained with word vectors for 
+more of a concise result of similarities.
+
+

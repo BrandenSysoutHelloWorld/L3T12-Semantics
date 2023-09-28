@@ -1,0 +1,32 @@
+What I found interest about the Similarities between: Cat, Banana and Monkey:
+
+Similarity between Cat and Banana is interesting since there seems to be similarities as
+the result is a 0.22 similarity. Even though its low, its interesting that they even have 
+score of similarity.
+
+Cat and Monkey is also interest but obvious as the score of 0.59 similarly makes sense 
+since both entities fall under the category of animals.
+
+
+My own example:
+
+I would like to compare the similarities between Lion, Elephant and potatoes.
+
+Results:
+Lion Lion 1.0
+Lion Elephant 0.6265946626663208
+Lion Potatoes -0.03420473635196686
+Elephant Lion 0.6265946626663208
+Elephant Elephant 1.0
+Elephant Potatoes 0.0016501322388648987
+Potatoes Lion -0.03420473635196686
+Potatoes Elephant 0.0016501322388648987
+
+I found the similarity between Lion and Elephant interesting due to the fact that
+the score was higher than cat monkey, even though they both comparing animals, Lion
+and Elephant part of the Big 5 which push the similarity score higher.
+
+Lion and Potatoes was also interesting since the one is plural(Potatoes) and the other 
+singular(Lion). Causing their similarity to be drastically impacted! When change the 
+word potatoes to singular(potato), we see the score changing to 0.29.
+
