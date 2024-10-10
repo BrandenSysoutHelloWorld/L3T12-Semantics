@@ -1,1 +1,3 @@
-# L3T12-Semantics
+# Entity Recognition
+
+The following application is used to perform named and standard entity recognition.
